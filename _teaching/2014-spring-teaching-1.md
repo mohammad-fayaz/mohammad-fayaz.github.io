@@ -2,7 +2,7 @@
 title: "Courses for Medical and Health Students"
 collection: teaching
 type: "Undergraduate / Graduate Teaching"
-permalink: /teaching/medical-health-courses/
+permalink: /teaching/2015-spring-teaching-1
 venue: "Shahed University and Shahid Beheshti University of Medical Sciences"
 date: 2026-06-06
 location: "Tehran, Iran"
