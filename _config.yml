@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mohammad Fayaz"
+title                    : "Dr. Mohammad Fayaz"
 title_separator          : "-"
 name                     : &name "Mohammad Fayaz"
 description              : &description "Academic website of Mohammad Fayaz"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,12 +24,12 @@ repository               : "mohammad-fayaz/mohammad-fayaz.github.io"
 author:
   # Biographic information
   avatar           : "profile_Fayaz.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Dr. Mohammad Fayaz"
+  pronouns         : "he/his"  
   bio              : "Assistant Professor of Biostatistics at the School of Medicine, Shahed University, Tehran, Iran. Research interests include Functional Data Analysis, Computational Neuroscience and Data Science. ORCID: 0000-0002-5643-9763"
   location         : "Tehran, Iran"
   employer         : "School of Medicine, Shahed University"
-  uri              : https://isid.research.ac.ir/Mohammad_Fayaz
+  uri              :  https://isid.research.ac.ir/Mohammad_Fayaz
   email            : "Mohammad.Fayaz.89@gmail.com" 
 
   # Academic websites
