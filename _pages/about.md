@@ -70,6 +70,16 @@ If you are interested in thesis supervision or statistical consulting, please fe
 
 ---
 
+## Languages
+
+- **English:** IELTS 6.0  
+- **German:** B2–C1 level  
+- **Arabic:** Elementary  
+- **Farsi:** Native  
+
+---
+
+
 ## Contact
 
 **Email:** Mohammad.Fayaz.89@gmail.com  
