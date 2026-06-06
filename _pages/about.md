@@ -39,7 +39,7 @@ He is a member of several scientific societies, including:
 
 ## Students and Supervision
 
-He has served as a statistical consultant for many students at the PhD level in Economics and Statistics, as well as MSc students in Actuarial Science, Health Sciences, Nursing, and General Practice (GP).
+He has served as a statistical consultant for many students at the PhD level in Economics and Statistics, as well as MSc students in Actuarial Science, Health Sciences, Nursing, and Medical students (General Practice).
 
 If you are interested in thesis supervision or statistical consulting, please feel free to contact him via email.
 
