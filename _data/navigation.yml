@@ -25,10 +25,7 @@ main:
     
   - title: "CV"
     url: /cv/
-
-   - title: "Software"
-    url: /Software/
-    
+   
   # - title: "CV"
   #   url: /cv-json/
     
