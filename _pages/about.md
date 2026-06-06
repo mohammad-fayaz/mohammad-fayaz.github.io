@@ -7,16 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
----
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ## About Me
 
 Mohammad Fayaz is an Assistant Professor of Biostatistics in the Department of Health and Social Medicine, School of Medicine, Shahed University, Tehran, Iran (since October 2024).
